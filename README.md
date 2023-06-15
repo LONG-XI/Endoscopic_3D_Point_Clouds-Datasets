@@ -5,16 +5,7 @@ We create 5 classes of endoscopic 3D point clouds datasets from the public avail
 Our datasets (48.61 GB) include scenes of abdomen wall, uterine horn, nephrectomy scene 1, nephrectomy scene 2 and the liver and we make the datasets publicly available to researchers. Each dense 3D point cloud extracted contains approximately 100,000 points on average. 
 
 If you only want to download the dataset, click the download links below:
-
-Download Endoscopic 3D point clouds Dataset1 (816.1 MB) at https://drive.google.com/file/d/1Jrjy25BVoFo9xQOs95NQUXOUCPSs9h0-/view?usp=sharing.
-
-Download Endoscopic 3D point clouds Dataset2 (2.48 GB) at https://drive.google.com/file/d/1UYN59dcxn0-SYS4XhYTtfsFsHL2Lfj-X/view?usp=sharing.
-
-Download Endoscopic 3D point clouds Dataset3 (2.39 GB) at https://drive.google.com/file/d/1HTdljd1-a6DLGAzFDM10LmBmjjuyZHIr/view?usp=sharing.
-
-Download Endoscopic 3D point clouds Dataset4 (around 2.15 GB per zip file, 10 files (~20 GB) in total ) at https://drive.google.com/drive/folders/1al3mECUGp6pPPPRsCRsBzeqgdvPElLVr?usp=sharing.
-
-Download Endoscopic 3D point clouds Dataset5 (around 2.15 GB per zip file, 10 files (~20 GB) in total ) at https://drive.google.com/drive/folders/186JZcvovEo88BE1HCRQJM4PmiWbxgf5E?usp=sharing.
+https://github.com/LONG-XI/Endoscopic-3D-Point-Clouds-Datasets
 
 
 
@@ -48,5 +39,6 @@ If you have problems when downloading our datasets, please contact us.
 
 Email address: 
 lxi@bournemouth.ac.uk
+xilong9410@163.com
 wtang@bournemouth.ac.uk
 
